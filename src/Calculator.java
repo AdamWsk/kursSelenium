@@ -2,14 +2,22 @@ import java.util.Scanner;
 
 public class Calculator {
     public static void main(String[] args) {
-        Scanner dodawanie = new Scanner(System.in);
+        Scanner Calculator = new Scanner(System.in);
         System.out.println("Podaj zmienna a: ");
-        int a = dodawanie.nextInt();
+        int a = Calculator.nextInt();
         System.out.println("Podaj zmienna b: ");
-        int b = dodawanie.nextInt();
+        int b = Calculator.nextInt();
 
-        int c = a + b;
+        int dodawanie  = a + b;
+        System.out.println("Suma a i b = " + dodawanie);
 
-        System.out.println("Suma a i b = " + c);
+        int odejmowanie = a - b;
+        System.out.println("Różnica a i b = " + odejmowanie);
+
+        float mnozenie = a * b;
+        System.out.println("Iloczyn a i b = " + mnozenie);
+
+        float dzielenie = a/b;
+        System.out.println("Iloraz a i b = " + dzielenie);
     }
 }
