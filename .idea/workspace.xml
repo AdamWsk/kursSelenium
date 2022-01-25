@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7a43902-ce15-47de-a303-3c3cb69df818" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/operatoryPorowniania.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Calculator">
+  <component name="RunManager" selected="Application.operatoryPorowniania">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="kursSeleniumOdPodstaww" />
@@ -48,8 +48,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="operatoryPorowniania" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operatoryPorowniania" />
+      <module name="kursSeleniumOdPodstaww" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.operatoryPorowniania" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Hello" />
       </list>
@@ -101,40 +109,48 @@
       <option name="project" value="LOCAL" />
       <updated>1643119968160</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Praca domowa - dodanie mnozenia, dzielenia, odejmowania">
+      <created>1643120606014</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643120606014</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="Praca domowa 1 - kalkulator" />
     <MESSAGE value="Praca domowa 1 - poprawka" />
-    <option name="LAST_COMMIT_MESSAGE" value="Praca domowa 1 - poprawka" />
+    <MESSAGE value="Praca domowa - dodanie mnozenia, dzielenia, odejmowania" />
+    <option name="LAST_COMMIT_MESSAGE" value="Praca domowa - dodanie mnozenia, dzielenia, odejmowania" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="114" key="CommitChangelistDialog2" timestamp="1643119967817">
+    <state x="614" y="114" key="CommitChangelistDialog2" timestamp="1643120605703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1643119967817" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1643120573782">
+    <state x="614" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1643120605703" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1643121469245">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1643120573782" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1643120573782">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1643121469245" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1643121469245">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1643120573782" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1643120573782">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1643121469245" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1643121469245">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1643120573782" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1643120573782">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1643121469245" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1643121469245">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1643120573782" />
-    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1643119969609">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1643121469245" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1643120607844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1643119969609" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1643120607844" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1643119528066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
