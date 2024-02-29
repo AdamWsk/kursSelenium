@@ -5,14 +5,13 @@ public class operatoryLogiczne {
         boolean thirdValue = true;
         boolean fourthValue = false;
 
-        // && = oraz
+        // && = oraz, gdy wszystkie warunki sa true
         System.out.println(firstValue && secondValue);
         System.out.println(firstValue && thirdValue);
-        // || = lub
+        // || = lub gdy ktorykolwiek warunek to true
         System.out.println(firstValue || secondValue);
         System.out.println(fourthValue || secondValue);
         // ! = negacja
-
         System.out.println(!firstValue);
         System.out.println(!(firstValue && thirdValue));
 
