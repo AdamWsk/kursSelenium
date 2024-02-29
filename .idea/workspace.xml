@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7a43902-ce15-47de-a303-3c3cb69df818" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Petle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/petleWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tablice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/petlaDoWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operatoryLogiczne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operatoryLogiczne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.petleWhile">
+  <component name="RunManager" selected="Application.Tablice">
     <configuration name="CustomScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CustomScanner" />
       <module name="kursSeleniumOdPodstaww" />
@@ -49,15 +48,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="inkrementacjaDekrementacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inkrementacjaDekrementacja" />
+    <configuration name="Tablice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tablice" />
       <module name="kursSeleniumOdPodstaww" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="operatoryMatematyczne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operatoryMatematyczne" />
+    <configuration name="inkrementacjaDekrementacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inkrementacjaDekrementacja" />
       <module name="kursSeleniumOdPodstaww" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tablice" />
         <item itemvalue="Application.petleWhile" />
         <item itemvalue="Application.Petle" />
         <item itemvalue="Application.CustomScanner" />
         <item itemvalue="Application.inkrementacjaDekrementacja" />
-        <item itemvalue="Application.operatoryMatematyczne" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709235423803</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="petle while">
+      <created>1709245171860</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709245171860</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -142,33 +148,34 @@
     <MESSAGE value="typt obiektowe + zmienne" />
     <MESSAGE value="inkrementacjaDekrementacja" />
     <MESSAGE value="custom scanner - wprowadzanei dnaych" />
-    <option name="LAST_COMMIT_MESSAGE" value="custom scanner - wprowadzanei dnaych" />
+    <MESSAGE value="petle while" />
+    <option name="LAST_COMMIT_MESSAGE" value="petle while" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="114" width="868" height="811" key="CommitChangelistDialog2" timestamp="1709235423451">
+    <state x="614" y="114" width="868" height="811" key="CommitChangelistDialog2" timestamp="1709245171538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="114" width="868" height="811" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709235423451" />
-    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1709245057752">
+    <state x="614" y="114" width="868" height="811" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709245171538" />
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1709246113533">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709245057752" />
-    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1709245057752">
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709246113533" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1709246113533">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709245057752" />
-    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1709245057751">
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709246113533" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1709246113532">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709245057751" />
-    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1709245057752">
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709246113532" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1709246113533">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709245057752" />
-    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1709235425323">
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709246113533" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1709245173187">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709235425323" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709245173187" />
     <state x="2576" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1709229462964">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
