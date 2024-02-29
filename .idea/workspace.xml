@@ -18,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="23yYXM7KUtRZcpWBcQQWAUgrMr3" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -55,24 +58,32 @@
       <option name="presentableId" value="Default" />
       <updated>1642707831447</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1709229329528</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709229329528</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1642711237173">
+    <state x="614" y="114" key="CommitChangelistDialog2" timestamp="1709229382306">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1642711237173" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1642711237173">
+    <state x="614" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709229382306" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1709229331744">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1642711237173" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1642711237173">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709229331744" />
+    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1709229462964">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1642711237173" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1642711237173">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1642711237173" />
+    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709229462964" />
   </component>
 </project>
