@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7a43902-ce15-47de-a303-3c3cb69df818" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TypyObiektowe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zmienne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inkrementacjaDekrementacja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operatoryMatematyczne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kursSeleniumOdPodstaww/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kursSeleniumOdPodstaww/Hello.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Zmienne">
+  <component name="RunManager" selected="Application.inkrementacjaDekrementacja">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="kursSeleniumOdPodstaww" />
@@ -48,8 +49,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="inkrementacjaDekrementacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inkrementacjaDekrementacja" />
+      <module name="kursSeleniumOdPodstaww" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="operatoryMatematyczne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operatoryMatematyczne" />
+      <module name="kursSeleniumOdPodstaww" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.inkrementacjaDekrementacja" />
+        <item itemvalue="Application.operatoryMatematyczne" />
         <item itemvalue="Application.Zmienne" />
         <item itemvalue="Application.Hello" />
       </list>
@@ -87,39 +104,47 @@
       <option name="project" value="LOCAL" />
       <updated>1709230417601</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="typt obiektowe + zmienne">
+      <created>1709232654102</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709232654102</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="typy proste" />
-    <option name="LAST_COMMIT_MESSAGE" value="typy proste" />
+    <MESSAGE value="typt obiektowe + zmienne" />
+    <option name="LAST_COMMIT_MESSAGE" value="typt obiektowe + zmienne" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="114" width="868" height="811" key="CommitChangelistDialog2" timestamp="1709230417272">
+    <state x="614" y="114" width="868" height="811" key="CommitChangelistDialog2" timestamp="1709232653790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="114" width="868" height="811" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709230417272" />
-    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1709232406902">
+    <state x="614" y="114" width="868" height="811" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709232653790" />
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1709234678137">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709232406902" />
-    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1709232406902">
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709234678137" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1709234678137">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709232406902" />
-    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1709232406902">
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709234678137" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1709234678137">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709232406902" />
-    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1709232406902">
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709234678137" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1709234678137">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709232406902" />
-    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1709230420129">
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709234678137" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1709232655813">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709230420129" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1709232655813" />
     <state x="2576" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1709229462964">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
